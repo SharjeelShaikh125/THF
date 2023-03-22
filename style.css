@@ -1,0 +1,253 @@
+body {
+    margin: 0;
+    background-color: #020d1c;
+}
+
+section {
+    color: white;
+}
+
+
+/* navbar */
+
+#title {
+    background-color: #061324;
+}
+
+.nav-item .nav-link {
+    color: white;
+}
+
+.nav-item {
+    font-weight: bold;
+    padding: 20px 18px 0;
+    margin: auto;
+}
+
+.press-logo {
+    padding: 2% 2% 0%;
+}
+.dropdownitem{
+    background-color: black;
+}
+
+
+/* slider */
+
+.carousel-item {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 0;
+}
+
+#slide-banner button {
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+}
+
+
+/* features */
+
+#features {
+    padding: 0 9% 5% 9%;
+    background-color: #061324;
+}
+
+#features h2 {
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 2%;
+}
+
+
+/* mission */
+
+#mission {
+    padding: 15% 8% 15% 8%;
+    background-color: #061324;
+    line-height: 1.7;
+    text-align: center;
+}
+
+
+/* working */
+
+#working {
+    background-color: #040810;
+    padding: 230px;
+}
+
+#working button {
+    color:black;
+}
+
+#working p {
+    text-align: right;
+    padding-top: 30px;
+    line-height: 1.7;
+}
+
+#working h1,
+h5 {
+    line-height: 0.8;
+    font-weight: bold;
+}
+
+
+/* institudes */
+
+#institute {
+    background-color: #061324;
+    text-align: center;
+    padding: 55px;
+}
+
+#institute .headding {
+    font-size: 3rem;
+    padding-bottom: 55px;
+}
+
+#institute img {
+    height: 200px;
+    width: auto;
+    border-radius: 10px;
+}
+
+#institute .title {
+    font-size: 20px;
+    color: #429c2f;
+}
+
+#institute button {
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+/* growth */
+
+#growth {
+    text-align: center;
+    background-image: url(image/gback.jpg);
+    background-size: cover;
+    padding: 300px 200px 300px 200px;
+}
+
+#growth .headding {
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+#growth .title {
+    font-size: 4rem;
+    font-weight: bold;
+    color: black;
+}
+
+#growth p {
+    font-size: 30px;
+}
+
+
+/* donore */
+
+#donore {
+    background-color: #061324;
+    text-align: center;
+    padding: 200px 100px 200px 100px;
+}
+
+#donore .headding {
+    font-size: 3.3rem;
+    padding-bottom: 20px;
+}
+
+#donore button {
+    color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#donore img {
+    height: 250px;
+    width: auto;
+}
+
+
+/* feedback */
+
+#feedback {
+    text-align: center;
+    background-color: #040810;
+    padding: 19% 9% 19% 9%;
+}
+
+#feedback img {
+    height: 70px;
+    width: auto;
+}
+
+#feedback p {
+    font-size: 20px;
+}
+
+#feedback .headding {
+    font-size: 3.3rem;
+    padding-bottom: 30px;
+}
+
+#carouselExample {
+    background-color: #061324;
+    padding: 50px;
+    display: flex;
+}
+
+
+/* Footer */
+
+#footer {
+    background-color: #061324;
+    padding: 4%;
+}
+
+#footer .title {
+    margin-bottom: 40px;
+}
+
+#footer .list1 {
+    line-height: 0.7;
+}
+
+#footer .list2 a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#footer .list a {
+    color: white;
+    text-decoration: none;
+}
+
+#footer .list a:hover {
+    color: black;
+}
+
+#footer .list2 a:hover {
+    color: black;
+}
+
+.footer-last {
+    padding-top: 40px;
+}
